@@ -1,5 +1,5 @@
 # SpotifyPlaylist
 
-# Overview
-# Technology used
-# Architecture
+## Overview
+## Technology used
+## Architecture
