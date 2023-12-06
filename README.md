@@ -1,4 +1,4 @@
-# SpotifyPlaylist
+# Spotify Playlist Batch Processing ETL Pipeline
 
 ## Overview
 test
