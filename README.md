@@ -7,18 +7,18 @@ test
 <img src="Spotify-Architecture.png">
 
 ## Technology used
-- Spotify Web API
-- Python
-- Tableau
-- Amazon Web Service (AWS):
-1. Cloudwatch
-2. Eventbridge
-3. Lambda
-4. S3
-5. Glue Crawler
-6. Glue Data Catalog
-7. Anthena
-8. Redshift Serverless
+1. Spotify Web API
+2. Python
+3. Tableau
+4. Amazon Web Service (AWS):
+a. Cloudwatch
+b. Eventbridge
+c. Lambda
+d. S3
+e. Glue Crawler
+f. Glue Data Catalog
+g. Anthena
+h. Redshift Serverless
 
 
 ## Tableau report
