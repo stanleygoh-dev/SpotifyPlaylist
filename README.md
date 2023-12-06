@@ -4,10 +4,10 @@
 test
 
 ## Architecture
-test
+<img src="Spotify-Architecture.png">
 
 ## Technology used
-<img src="Spotify-Architecture.png">
+test
 
 ## Tableau report
 [Spotify Playlist Rankings: Top 50 Songs](https://public.tableau.com/app/profile/stanley.goh/viz/Spotify_Workbook_17004225392950/Dashboard1)
