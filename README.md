@@ -11,14 +11,15 @@ test
 2. Python
 3. Tableau
 4. Amazon Web Service (AWS):
-a. Cloudwatch
-b. Eventbridge
-c. Lambda
-d. S3
-e. Glue Crawler
-f. Glue Data Catalog
-g. Anthena
-h. Redshift Serverless
+- Cloudwatch
+- Eventbridge
+- Lambda
+- S3
+- Glue Crawler
+- Glue Data Catalog
+- Anthena
+- Redshift Serverless
+
 
 
 ## Tableau report
