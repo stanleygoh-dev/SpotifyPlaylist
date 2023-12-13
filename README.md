@@ -17,8 +17,7 @@ In the loading stage, we've explored two methods: AWS Glue Crawler, Glue Data Ca
 - Eventbridge
 - Lambda
 - S3
-- Glue Crawler
-- Glue Data Catalog
+- Glue 
 - Anthena
 - Redshift Serverless
 - IAM
